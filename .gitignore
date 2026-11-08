@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor settings (keep the shared ones)
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Secrets: never commit
+.env
+*.secret
